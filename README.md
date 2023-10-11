@@ -1,2 +1,2 @@
 # WebCrawler爬蟲
-![](movie_info.png)
+![](./demo/movie_info.png)
